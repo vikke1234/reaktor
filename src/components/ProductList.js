@@ -2,7 +2,6 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from "react";
 import { useTable } from "react-table";
-import Product from "./Product";
 
 import "./ProductList.css";
 
